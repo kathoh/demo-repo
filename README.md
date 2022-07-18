@@ -8,5 +8,4 @@ Visit homepage
 
 ### Local Development
 
-1. Open index.html
-2. Have fun
+1. Open index.html and have fun
