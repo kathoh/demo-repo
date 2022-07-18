@@ -2,11 +2,11 @@
 
 Some description!
 
-# Subheader
+## Subheader
 
 Visit homepage
 
-## Local Development
+### Local Development
 
 1. Open index.html
 2. Have fun
