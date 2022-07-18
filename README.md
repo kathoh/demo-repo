@@ -8,4 +8,4 @@ Watch tutorial on YouTube.
 
 ## Local Development
 
-1. Open index.html
+Open index.html and have fun
